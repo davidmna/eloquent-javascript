@@ -4,7 +4,5 @@ while (count <= 10) {
     total += count;
     count += 1;
 }
-sadf
-sadfasdf
 
 console.log(total);
